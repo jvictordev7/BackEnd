@@ -1,6 +1,6 @@
 import prismaClient from "../prisma";
 
-class CraeteCustomerServices{
+class CreateCustomerService{
     async execute(){
 
         console.log("ROTA FOI CHAMADA")
@@ -8,3 +8,5 @@ class CraeteCustomerServices{
         return { OK: true}
     }
 }
+
+export { CreateCustomerService}
