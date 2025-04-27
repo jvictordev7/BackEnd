@@ -17,7 +17,7 @@ Projeto desenvolvido para o <strong>ADS Summer Code 2025</strong> da UNILAVRAS, 
 </div>
 
 ## 📦 **Estrutura do Projeto**
-```bash
+
     BackEnd/
     ├── src/
     │   ├── controllers/    # Lógica de tratamento de requisições
