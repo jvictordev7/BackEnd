@@ -16,15 +16,3 @@ Projeto desenvolvido para o <strong>ADS Summer Code 2025</strong> da UNILAVRAS, 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 </div>
 
-## 📦 **Estrutura do Projeto**
-
- BackEnd/
-    ├── src/
-    │   ├── controllers/    # Lógica de tratamento de requisições
-    │   ├── services/       # Regras de negócio e acesso a dados
-    │   ├── routes.ts       # Definição das rotas da API
-    │   └── server.ts       # Configuração do servidor Fastify
-    ├── prisma/
-    │   └── schema.prisma  # Schema do banco de dados
-    ├── package.json
-    └── tsconfig.json
