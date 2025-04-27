@@ -18,13 +18,13 @@ Projeto desenvolvido para o <strong>ADS Summer Code 2025</strong> da UNILAVRAS, 
 
 ## 📦 **Estrutura do Projeto**
 ```bash
-BackEnd/
-├── src/
-│   ├── controllers/    # Lógica de tratamento de requisições
-│   ├── services/       # Regras de negócio e acesso a dados
-│   ├── routes.ts       # Definição das rotas da API
-│   └── server.ts       # Configuração do servidor Fastify
-├── prisma/
-│   └── schema.prisma  # Schema do banco de dados
-├── package.json
-└── tsconfig.json
+    BackEnd/
+    ├── src/
+    │   ├── controllers/    # Lógica de tratamento de requisições
+    │   ├── services/       # Regras de negócio e acesso a dados
+    │   ├── routes.ts       # Definição das rotas da API
+    │   └── server.ts       # Configuração do servidor Fastify
+    ├── prisma/
+    │   └── schema.prisma  # Schema do banco de dados
+    ├── package.json
+    └── tsconfig.json
